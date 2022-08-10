@@ -18,3 +18,6 @@ You can take a look at the [template](./rise_template.json) and add monsters suc
 All the informations were taken directly from the [wiki](https://monsterhunterrise.wiki.fextralife.com/Monster+Hunter+Rise+Wiki) and belongs to Capcom. You can refer to it if you want to add missing data!
 
 Also if you're looking to add missing stats for the first monsters, take a look at the last ones since they contain everything needed!
+
+### Update about Rise
+So now it's missing sunbreak content, that's all!
