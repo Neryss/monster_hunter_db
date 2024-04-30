@@ -10866,7 +10866,7 @@
 		"species": "flying wyvern",
 		"elements": [
 			"ice"
-		],
+		],																																											
 		"name": "Shrieking Legiana",
 		"description": "A Legiana variant shrouded in white frost. It specializes in freezing prey with the powerful chill it emits, then swooping down to strike at them from overhead.",
 		"ailments": [
@@ -13276,10 +13276,10 @@
 	{
 		"id": 90,
 		"type": "large",
-		"species": "",
+		"species": "elder dragon",
 		"elements": [],
 		"name": "Alatreon",
-		"description": "",
+		"description": "Known as a symbol of destruction, it's rumored to harness the full force of nature, but no records remain",
 		"ailments": [],
 		"resistances": [],
 		"weaknesses": [],
@@ -13288,10 +13288,10 @@
 	{
 		"id": 91,
 		"type": "large",
-		"species": "",
+		"species": "fanged beast",
 		"elements": [],
 		"name": "Frostfang Barioth",
-		"description": "",
+		"description": "A variant Barioth uses a sub-zero breath attack to slow down prey before it goes in for the kill.",
 		"ailments": [],
 		"resistances": [],
 		"weaknesses": [],
@@ -13303,7 +13303,7 @@
 		"species": "",
 		"elements": [],
 		"name": "Fatalis",
-		"description": "",
+		"description": "The legendary black dragon that obliterated a country in a single night. It now presides in the ruins of its castle.",
 		"ailments": [],
 		"resistances": [],
 		"weaknesses": [],
