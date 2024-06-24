@@ -13277,36 +13277,406 @@
 		"id": 90,
 		"type": "large",
 		"species": "elder dragon",
-		"elements": [],
+		"elements": [
+			"dragon",
+			"ice",
+			"thunder",
+			"fire",
+			"water"
+		],
 		"name": "Alatreon",
 		"description": "Known as a symbol of destruction, it's rumored to harness the full force of nature, but no records remain",
-		"ailments": [],
-		"resistances": [],
-		"weaknesses": [],
+		"ailments": [
+			{
+				"id": 12,
+				"name": "Waterblight",
+				"description": "Waterblight slows down stamina recovery rate.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			},
+			{
+				"id": 11,
+				"name": "Thunderblight",
+				"description": "Thunderblight increases the chance of being stunned.",
+				"recovery": {
+					"actions": [
+						"dodge"
+					],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			},
+			{
+				"id": 6,
+				"name": "Iceblight",
+				"description": "Iceblight causes stamina usage to increase when performing actions.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			},
+			{
+				"id": 5,
+				"name": "Fireblight",
+				"description": "Fireblight causes damage over time, and negates regular health recovery.",
+				"recovery": {
+					"actions": [
+						"dodge"
+					],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			},
+			{
+				"id": 3,
+				"name": "Dragonblight",
+				"description": "Dragonblight causes your weapon's elemental properties are nullified.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			}
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune while fire is active"
+			},
+			{
+				"element": "ice",
+				"condition": "immune while ice is active"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "fire",
+				"stars": 1,
+				"condition": "dragon active"
+			},
+			{
+				"element": "fire",
+				"stars": 3,
+				"condition": "ice active"
+			},
+			{
+				"element": "water",
+				"stars": 2,
+				"condition": "fire active"
+			},
+			{
+				"element": "water",
+				"stars": 1,
+				"condition": "dragon active"
+			},
+			{
+				"element": "water",
+				"stars": 1,
+				"condition": "ice active"
+			},
+			{
+				"element": "thunder",
+				"stars": 1,
+				"condition": "fire active"
+			},
+			{
+				"element": "thunder",
+				"stars": 1,
+				"condition": "dragon active"
+			},
+			{
+				"element": "thunder",
+				"stars": 2,
+				"condition": "ice active"
+			},
+			{
+				"element": "ice",
+				"stars": 3,
+				"condition": "fire active"
+			},
+			{
+				"element": "ice",
+				"stars": 1,
+				"condition": "dragon active"
+			},
+			{
+				"element": "dragon",
+				"stars": 1,
+				"condition": "fire active"
+			},
+			{
+				"element": "dragon",
+				"stars": 2,
+				"condition": "dragon active"
+			},
+			{
+				"element": "dragon",
+				"stars": 1,
+				"condition": "ice active"
+			},
+			{
+				"element": "poison",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "sleep",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "paralysis",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "blast",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "stun",
+				"stars": 1,
+				"condition": null
+			}
+		],
 		"rewards": []
 	},
 	{
 		"id": 91,
 		"type": "large",
-		"species": "fanged beast",
-		"elements": [],
+		"species": "flying wyvern",
+		"elements": [
+			"ice"
+		],
 		"name": "Frostfang Barioth",
 		"description": "A variant Barioth uses a sub-zero breath attack to slow down prey before it goes in for the kill.",
-		"ailments": [],
-		"resistances": [],
-		"weaknesses": [],
+		"ailments": [
+			{
+				"id": 6,
+				"name": "Iceblight",
+				"description": "Iceblight causes stamina usage to increase when performing actions.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			}
+		],
+		"resistances": [
+			{
+				"element": "water",
+				"condition": "immune"
+			},
+			{
+				"element": "ice",
+				"condition": "immune"
+			},
+			{
+				"element": "dragon",
+				"condition": null
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "fire",
+				"stars": 3,
+				"condition": null
+			},
+			{
+				"element": "thunder",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "poison",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "sleep",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "paralysis",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "blast",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "stun",
+				"stars": 2,
+				"condition": null
+			}
+		],
 		"rewards": []
 	},
 	{
 		"id": 92,
 		"type": "large",
-		"species": "",
-		"elements": [],
+		"species": "elder dragon",
+		"elements": [
+			"fire"
+		],
 		"name": "Fatalis",
 		"description": "The legendary black dragon that obliterated a country in a single night. It now presides in the ruins of its castle.",
-		"ailments": [],
-		"resistances": [],
-		"weaknesses": [],
+		"ailments": [
+			{
+				"id": 5,
+				"name": "Fireblight",
+				"description": "Fireblight causes damage over time, and negates regular health recovery.",
+				"recovery": {
+					"actions": [
+						"dodge"
+					],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"skills": [],
+					"items": []
+				}
+			}
+		],
+		"resistances": [
+			{
+				"element": "water",
+				"condition": null
+			},
+			{
+				"element": "thunder",
+				"condition": null
+			},
+			{
+				"element": "ice",
+				"condition": null
+			},
+			{
+				"element": "stun",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "fire",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "dragon",
+				"stars": 3,
+				"condition": null
+			},
+			{
+				"element": "poison",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "sleep",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "paralysis",
+				"stars": 1,
+				"condition": null
+			},
+			{
+				"element": "blast",
+				"stars": 1,
+				"condition": null
+			}
+		],
 		"rewards": []
 	}
 ]
