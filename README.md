@@ -1,4 +1,4 @@
-# monster_hunter_db
+# Monster Hunter Database
 Database containing all monsters informations for MHW and MH: Rise
 
 Both DB's are complete for my goal which is to run a [Discord bot](https://github.com/Neryss/mh_bot) that you can invite to your own server by the way. 
