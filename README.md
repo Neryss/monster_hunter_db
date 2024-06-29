@@ -1,7 +1,7 @@
-# monster_hunter_db
+# Monster Hunter Database
 Database containing all monsters informations for MHW and MH: Rise
 
-Both DB's are complete for my goals which are to run a [Discord bot](https://github.com/Neryss/mh_bot) that you can invite to your own server by the way. 
+Both DB's are complete for my goal which is to run a [Discord bot](https://github.com/Neryss/mh_bot) that you can invite to your own server by the way. 
 
 I know some informations might be missing for recent monsters sicne I didn't use the locations or missions rewards for the bot, hence why it is not present in the DB. Feel free to add them if you wish!
 
@@ -33,3 +33,8 @@ Anyway, here are the needed stuff:
 - Monster descriptions/lore
 - Monster locations
 - Monster drops/rewards
+
+## Thanks
+
+- [TKkeith12](https://github.com/TKkeith12/) for adding some locations to the World db
+- [Darkbane0216](https://github.com/Darkbane0216) who completed the title update monsters for World, also he is working on his own bot that you can find [here](https://github.com/Darkbane0216/BetterHandler)!
