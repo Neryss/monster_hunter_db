@@ -2,6 +2,7 @@
 	{
 		"id": 1,
 		"name": "monster",
+		"species": "type",
 		"elements": [
 			"dragon"
 		],
