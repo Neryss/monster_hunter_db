@@ -655,7 +655,7 @@
 			"Poison",
 			"Sleep"
 		],
-		"resistances": [{}],
+		"resistances": [],
 		"weaknesses": [
 			{
 				"element": "dragon",
@@ -830,7 +830,7 @@
 		"name": "Kulu-Ya-Ku",
 		"elements": [],
 		"ailments": [],
-		"resistances": [{}],
+		"resistances": [],
 		"weaknesses": [
 			{
 				"element": "water",
@@ -3315,10 +3315,12 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder"
+				"element": "thunder",
+				"condition": "immune"
 			},
 			{
-				"element": "fire"
+				"element": "fire",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
@@ -3327,24 +3329,12 @@
 				"stars": 2
 			},
 			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
 				"element": "water",
 				"stars": 1
 			},
 			{
 				"element": "ice",
 				"stars": 3
-			},
-			{
-				"element": "poison",
-				"stars": 0
 			},
 			{
 				"element": "stun",
@@ -3381,6 +3371,630 @@
 			{
 				"element": "iceblight",
 				"stars": 2
+			}
+		]
+	},
+	{
+		"id": 61,
+		"name": "Furious Rajang",
+		"species": "fanged beast",
+		"elements": [
+			"thunder"
+		],
+		"ailments": [
+			"Thunderblight"
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune"
+			},
+			{
+				"element": "thunder",
+				"condition": "immune"
+			},
+			{
+				"element": "dragon",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "water",
+				"stars": 1
+			},
+			{
+				"element": "ice",
+				"stars": 3
+			},
+			{
+				"element": "blast",
+				"stars": 2
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 2
+			}
+		]
+	},
+	{
+		"id": 62,
+		"name": "Shagaru Magala",
+		"species": "elder dragon",
+		"elements": [],
+		"ailments": [
+			"Frenzy Virus"
+		],
+		"resistances": [
+			{
+				"element": "water",
+				"condition": "immune"
+			},
+			{
+				"element": "ice"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "dragon",
+				"stars": 3
+			},
+			{
+				"element": "thunder",
+				"stars": 1
+			},
+			{
+				"element": "fire",
+				"stars": 2
+			},
+			{
+				"element": "poison",
+				"stars": 3
+			},
+			{
+				"element": "stun",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 2
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 63,
+		"name": "Gaismagorm",
+		"species": "elder dragon",
+		"elements": [],
+		"ailments": [
+			"Blastblight",
+			"Bloodblight"
+		],
+		"resistances": [
+			{
+				"element": "water",
+				"condition": "immune"
+			},
+			{
+				"element": "ice",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "dragon",
+				"stars": 3
+			},
+			{
+				"element": "thunder",
+				"stars": 2
+			},
+			{
+				"element": "fire",
+				"stars": 1
+			},
+			{
+				"element": "blast",
+				"stars": 2
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 64,
+		"name": "Scorned Magnamalo",
+		"species": "fanged wyvern",
+		"elements": [],
+		"ailments": [
+			"Hellfireblight"
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune"
+			},
+			{
+				"element": "dragon",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "thunder",
+				"stars": 2
+			},
+			{
+				"element": "water",
+				"stars": 3
+			},
+			{
+				"element": "ice",
+				"stars": 1
+			},
+			{
+				"element": "poison",
+				"stars": 1
+			},
+			{
+				"element": "stun",
+				"stars": 2
+			},
+			{
+				"element": "paralysis",
+				"stars": 1
+			},
+			{
+				"element": "sleep",
+				"stars": 1
+			},
+			{
+				"element": "exhaust",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 2
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 65,
+		"name": "Seething Bazelgeuse",
+		"Species": "flying wyvern",
+		"elements": [
+			"blast",
+			"fire"
+		],
+		"ailments": [
+			"Blastblight",
+			"Fireblight"
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune"
+			},
+			{
+				"element": "water"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "thunder",
+				"stars": 2
+			},
+			{
+				"element": "ice",
+				"stars": 3
+			},
+			{
+				"element": "poison",
+				"stars": 1
+			},
+			{
+				"element": "stun",
+				"stars": 1
+			},
+			{
+				"element": "paralysis",
+				"stars": 1
+			},
+			{
+				"element": "sleep",
+				"stars": 3
+			},
+			{
+				"element": "exhaust",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 2
+			}
+		]
+	},
+	{
+		"id": 66,
+		"name": "Silver Rathalos",
+		"species": "flying wyvern",
+		"elements": [
+			"fire"
+		],
+		"ailments": [
+			"Fireblight",
+			"Poison"
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune"
+			},
+			{
+				"element": "dragon",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "thunder",
+				"stars": 2
+			},
+			{
+				"element": "water",
+				"stars": 3
+			},
+			{
+				"element": "ice",
+				"stars": 1
+			},
+			{
+				"element": "paralysis",
+				"stars": 1
+			},
+			{
+				"element": "sleep",
+				"stars": 1
+			},
+			{
+				"element": "exhaust",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 2
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 67,
+		"name": "Gold Rathian",
+		"species": "flying wyvern",
+		"elements": [
+			"fire"
+		],
+		"ailments": [
+			"Fireblight",
+			"Poison"
+		],
+		"resistances": [
+			{
+				"element": "fire"
+			},
+			{
+				"element": "dragon",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "thunder",
+				"stars": 2
+			},
+			{
+				"element": "water",
+				"stars": 2
+			},
+			{
+				"element": "ice",
+				"stars": 1
+			},
+			{
+				"element": "paralysis",
+				"stars": 1
+			},
+			{
+				"element": "sleep",
+				"stars": 1
+			},
+			{
+				"element": "exhaust",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 2
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 68,
+		"name": "Flaming Espinas",
+		"species": "flying wyvern",
+		"elements": [
+			"fire"
+		],
+		"ailments": [
+			"Fireblight",
+			"Poison"
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "dragon",
+				"stars": 1
+			},
+			{
+				"element": "thunder",
+				"stars": 1
+			},
+			{
+				"element": "water",
+				"stars": 2
+			},
+			{
+				"element": "ice",
+				"stars": 1
+			},
+			{
+				"element": "stun",
+				"stars": 1
+			},
+			{
+				"element": "paralysis",
+				"stars": 1
+			},
+			{
+				"element": "sleep",
+				"stars": 1
+			},
+			{
+				"element": "blast",
+				"stars": 2
+			},
+			{
+				"element": "exhaust",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 2
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 69,
+		"name": "Violet Mizutsune",
+		"species": "leviathan",
+		"elements": [
+			"fire"
+		],
+		"ailments": [
+			"Fireblight"
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "thunder",
+				"stars": 3
+			},
+			{
+				"element": "water",
+				"stars": 2
+			},
+			{
+				"element": "ice",
+				"stars": 3
+			},
+			{
+				"element": "poison",
+				"stars": 1
+			},
+			{
+				"element": "stun",
+				"stars": 1
+			},
+			{
+				"element": "paralysis",
+				"stars": 1
+			},
+			{
+				"element": "sleep",
+				"stars": 1
+			},
+			{
+				"element": "blast",
+				"stars": 2
+			},
+			{
+				"element": "exhaust",
+				"stars": 1
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 2
+			}
+		]
+	},
+	{
+		"id": 70,
+		"name": "Risen Chameleos",
+		"species": "elder dragon",
+		"elements": [],
+		"ailments": [
+			"Poison"
+		],
+		"resistances": [
+			{
+				"element": "ice",
+				"condition": "immune"
+			},
+			{
+				"element": "water"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "dragon",
+				"stars": 2
+			},
+			{
+				"element": "thunder",
+				"stars": 1
+			},
+			{
+				"element": "fire",
+				"stars": 3
+			},
+			{
+				"element": "blast",
+				"stars": 2
+			},
+			{
+				"element": "fireblight",
+				"stars": 2
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
 			}
 		]
 	}
