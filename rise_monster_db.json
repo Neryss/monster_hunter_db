@@ -2,6 +2,7 @@
 	{
 		"id": 1,
 		"name": "Bishaten",
+		"species": "fanged beast",
 		"elements": [],
 		"ailments": [
 			"Poison",
@@ -32,6 +33,7 @@
 	{
 		"id": 2,
 		"name": "Great Wroggi",
+		"species": "bird wyvern",
 		"elements": [],
 		"ailments": [
 			"Poison"
@@ -73,6 +75,7 @@
 	{
 		"id": 3,
 		"name": "Magnamalo",
+		"species": "fanged wyvern",
 		"elements": [],
 		"ailments": [
 			"Hellfireblight"
@@ -98,6 +101,7 @@
 	{
 		"id": 4,
 		"name": "Royal Ludroth",
+		"species": "leviathan",
 		"elements": [
 			"water"
 		],
@@ -126,6 +130,7 @@
 	{
 		"id": 5,
 		"name": "Somnacanth",
+		"species": "leviathan",
 		"elements": [],
 		"ailments": [
 			"blastblight",
@@ -161,6 +166,7 @@
 	{
 		"id": 6,
 		"name": "Goss Harag",
+		"species": "fanged beast",
 		"elements": [
 			"ice"
 		],
@@ -192,6 +198,7 @@
 	{
 		"id": 7,
 		"name": "Lagombi",
+		"species": "fanged beast",
 		"elements": [
 			"ice"
 		],
@@ -235,6 +242,7 @@
 	{
 		"id": 8,
 		"name": "Khezu",
+		"species": "flying wyvern",
 		"elements": [
 			"thunder"
 		],
@@ -273,6 +281,7 @@
 	{
 		"id": 9,
 		"name": "Great Baggi",
+		"species": "bird wyvern",
 		"elements": [],
 		"ailments": [
 			"sleep"
@@ -315,6 +324,7 @@
 	{
 		"id": 10,
 		"name": "Barioth",
+		"species": "flying wyvern",
 		"elements": [
 			"ice"
 		],
@@ -350,6 +360,7 @@
 	{
 		"id": 11,
 		"name": "Mizutsune",
+		"species": "leviathan",
 		"elements": [
 			"water"
 		],
@@ -387,6 +398,7 @@
 	{
 		"id": 12,
 		"name": "Rathalos",
+		"species": "flying wyvern",
 		"elements": [
 			"fire"
 		],
@@ -413,6 +425,7 @@
 	{
 		"id": 13,
 		"name": "Tigrex",
+		"species": "flying wyvern",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -437,6 +450,7 @@
 	{
 		"id": 14,
 		"name": "Great Izuchi",
+		"species": "bird wyvern",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -478,6 +492,7 @@
 	{
 		"id": 15,
 		"name": "Arzuros",
+		"species": "fanged beast",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -530,6 +545,7 @@
 	{
 		"id": 16,
 		"name": "Tetranadon",
+		"species": "amphibian",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -561,6 +577,7 @@
 	{
 		"id": 17,
 		"name": "Aknosom",
+		"species": "birn wyvern",
 		"elements": [
 			"fire"
 		],
@@ -593,6 +610,7 @@
 	{
 		"id": 18,
 		"name": "Rathian",
+		"species": "flying wyvern",
 		"elements": [
 			"fire",
 			"poison"
@@ -620,6 +638,7 @@
 	{
 		"id": 19,
 		"name": "Rakna-Kadaki",
+		"species": "temnoceran",
 		"elements": [
 			"fire"
 		],
@@ -647,6 +666,7 @@
 	{
 		"id": 20,
 		"name": "Basarios",
+		"species": "flying wyvern",
 		"elements": [
 			"fire"
 		],
@@ -674,6 +694,7 @@
 	{
 		"id": 21,
 		"name": "Volvidon",
+		"species": "fanged beast",
 		"elements": [],
 		"ailments": [
 			"Paralysis"
@@ -708,6 +729,7 @@
 	{
 		"id": 22,
 		"name": "Almudron",
+		"species": "leviathan",
 		"elements": [
 			"water"
 		],
@@ -733,6 +755,7 @@
 	{
 		"id": 23,
 		"name": "Diablos",
+		"species": "flying wyvern",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -766,6 +789,7 @@
 	{
 		"id": 24,
 		"name": "Rajang",
+		"species": "fanged beast",
 		"elements": [
 			"thunder"
 		],
@@ -800,6 +824,7 @@
 	{
 		"id": 25,
 		"name": "Apex Arzuros",
+		"species": "fanged beast",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -828,6 +853,7 @@
 	{
 		"id": 26,
 		"name": "Kulu-Ya-Ku",
+		"species": "bird wyvern",
 		"elements": [],
 		"ailments": [],
 		"resistances": [],
@@ -849,6 +875,7 @@
 	{
 		"id": 27,
 		"name": "Barroth",
+		"species": "brute wyvern",
 		"elements": [
 			"water"
 		],
@@ -889,6 +916,7 @@
 	{
 		"id": 28,
 		"name": "Pukei-Pukei",
+		"species": "bird wyvern",
 		"elements": [],
 		"ailments": [
 			"Poison"
@@ -927,6 +955,7 @@
 	{
 		"id": 29,
 		"name": "Jyuratodus",
+		"species": "piscine wyvern",
 		"elements": [
 			"water"
 		],
@@ -961,7 +990,8 @@
 	},
 	{
 		"id": 30,
-		"name": "Tobbi-Kadachi",
+		"name": "Tobi-Kadachi",
+		"species": "fanged wyvern",
 		"elements": [
 			"thunder"
 		],
@@ -1002,6 +1032,7 @@
 	{
 		"id": 31,
 		"name": "Anjanath",
+		"species": "brute wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1042,10 +1073,6 @@
 				"stars": 1
 			},
 			{
-				"element": "blast",
-				"stars": 0
-			},
-			{
 				"element": "exhaust",
 				"stars": 1
 			},
@@ -1070,6 +1097,7 @@
 	{
 		"id": 32,
 		"name": "Nargacuga",
+		"species": "flying wyvern",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
@@ -1091,14 +1119,6 @@
 			{
 				"element": "fire",
 				"stars": 2
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
 			},
 			{
 				"element": "poison",
@@ -1145,6 +1165,7 @@
 	{
 		"id": 33,
 		"name": "Zinogre",
+		"species": "fanged wyvern",
 		"elements": [
 			"thunder"
 		],
@@ -1153,21 +1174,14 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder"
+				"element": "thunder",
+				"condition": "immune"
 			},
 			{
 				"element": "dragon"
 			}
 		],
 		"weaknesses": [
-			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
-			},
 			{
 				"element": "water",
 				"stars": 1
@@ -1183,10 +1197,6 @@
 			{
 				"element": "stun",
 				"stars": 1
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
 			},
 			{
 				"element": "sleep",
@@ -1221,6 +1231,7 @@
 	{
 		"id": 34,
 		"name": "Wind Serpent Ibushi",
+		"species": "elder dragon",
 		"elements": [
 			"dragon"
 		],
@@ -1239,10 +1250,6 @@
 			{
 				"element": "dragon",
 				"stars": 3
-			},
-			{
-				"element": "thunder",
-				"stars": 0
 			},
 			{
 				"element": "fire",
@@ -1275,10 +1282,6 @@
 			{
 				"element": "blast",
 				"stars": 1
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1301,6 +1304,7 @@
 	{
 		"id": 35,
 		"name": "Apex Rathian",
+		"species": "flying wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1323,40 +1327,8 @@
 				"stars": 2
 			},
 			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
-			},
-			{
-				"element": "poison",
-				"stars": 0
-			},
-			{
 				"element": "stun",
 				"stars": 1
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
-				"element": "blast",
-				"stars": 0
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1379,6 +1351,7 @@
 	{
 		"id": 36,
 		"name": "Thunder Serpent Narwa",
+		"species": "elder dragon",
 		"elements": [
 			"thunder"
 		],
@@ -1393,7 +1366,8 @@
 				"element": "water"
 			},
 			{
-				"element": "thunder"
+				"element": "thunder",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
@@ -1402,44 +1376,12 @@
 				"stars": 3
 			},
 			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
 				"element": "ice",
 				"stars": 2
 			},
 			{
-				"element": "poison",
-				"stars": 0
-			},
-			{
-				"element": "stun",
-				"stars": 0
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1450,10 +1392,6 @@
 				"stars": 1
 			},
 			{
-				"element": "thunderblight",
-				"stars": 0
-			},
-			{
 				"element": "iceblight",
 				"stars": 2
 			}
@@ -1462,13 +1400,15 @@
 	{
 		"id": 37,
 		"name": "Chameleos",
+		"species": "elder dragon",
 		"elements": [],
 		"ailments": [
 			"Venom"
 		],
 		"resistances": [
 			{
-				"element": "ice"
+				"element": "ice",
+				"condition": "immune"
 			},
 			{
 				"element": "water"
@@ -1480,44 +1420,16 @@
 				"stars": 2
 			},
 			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
 				"element": "fire",
 				"stars": 3
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
-			},
-			{
-				"element": "poison",
-				"stars": 0
 			},
 			{
 				"element": "stun",
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1540,6 +1452,7 @@
 	{
 		"id": 38,
 		"name": "Apex Rathalos",
+		"species": "flying wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1568,40 +1481,8 @@
 				"stars": 1
 			},
 			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
-			},
-			{
-				"element": "poison",
-				"stars": 0
-			},
-			{
 				"element": "stun",
 				"stars": 1
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
-				"element": "blast",
-				"stars": 0
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1624,6 +1505,7 @@
 	{
 		"id": 39,
 		"name": "Apex Mizutsune",
+		"species": "leviathan",
 		"elements": [
 			"water"
 		],
@@ -1633,7 +1515,8 @@
 		],
 		"resistances": [
 			{
-				"element": "water"
+				"element": "water",
+				"condition": "immune"
 			},
 			{
 				"element": "fire"
@@ -1649,18 +1532,6 @@
 				"stars": 3
 			},
 			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
-			},
-			{
 				"element": "poison",
 				"stars": 1
 			},
@@ -1669,20 +1540,8 @@
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1705,6 +1564,7 @@
 	{
 		"id": 40,
 		"name": "Teostra",
+		"species": "elder dragon",
 		"elements": [
 			"fire"
 		],
@@ -1714,7 +1574,8 @@
 		],
 		"resistances": [
 			{
-				"element": "fire"
+				"element": "fire",
+				"condition": "immune"
 			},
 			{
 				"element": "thunder"
@@ -1724,18 +1585,6 @@
 			}
 		],
 		"weaknesses": [
-			{
-				"element": "dragon",
-				"stars": 0
-			},
-			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
-			},
 			{
 				"element": "water",
 				"stars": 2
@@ -1753,20 +1602,8 @@
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1789,6 +1626,7 @@
 	{
 		"id": 41,
 		"name": "Kushala Daora",
+		"species": "elder dragon",
 		"elements": [],
 		"ailments": [
 			"Iceblight",
@@ -1796,7 +1634,8 @@
 		],
 		"resistances": [
 			{
-				"element": "ice"
+				"element": "ice",
+				"condition": "immune"
 			},
 			{
 				"element": "water"
@@ -1805,7 +1644,7 @@
 		"weaknesses": [
 			{
 				"element": "dragon",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "thunder",
@@ -1813,15 +1652,7 @@
 			},
 			{
 				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "poison",
@@ -1832,20 +1663,8 @@
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 3
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1868,11 +1687,13 @@
 	{
 		"id": 42,
 		"name": "Apex Diablos",
+		"species": "flying wyvern",
 		"elements": [],
 		"ailments": [],
 		"resistances": [
 			{
-				"element": "fire"
+				"element": "fire",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
@@ -1882,11 +1703,7 @@
 			},
 			{
 				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "water",
@@ -1905,20 +1722,8 @@
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -1941,6 +1746,7 @@
 	{
 		"id": 43,
 		"name": "Bazelgeuse",
+		"species": "flying wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1949,7 +1755,8 @@
 		],
 		"resistances": [
 			{
-				"element": "fire"
+				"element": "fire",
+				"condition": "immune"
 			},
 			{
 				"element": "water"
@@ -1965,12 +1772,8 @@
 				"stars": 2
 			},
 			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
 				"element": "water",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "ice",
@@ -1981,20 +1784,12 @@
 				"stars": 1
 			},
 			{
-				"element": "stun",
-				"stars": 0
-			},
-			{
 				"element": "paralysis",
 				"stars": 1
 			},
 			{
 				"element": "sleep",
 				"stars": 1
-			},
-			{
-				"element": "blast",
-				"stars": 0
 			},
 			{
 				"element": "exhaust",
@@ -2021,6 +1816,7 @@
 	{
 		"id": 44,
 		"name": "Narwa The Allmother",
+		"species": "elder dragon",
 		"elements": [
 			"thunder"
 		],
@@ -2029,17 +1825,14 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder"
+				"element": "thunder",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
 			{
 				"element": "dragon",
 				"stars": 3
-			},
-			{
-				"element": "thunder",
-				"stars": 0
 			},
 			{
 				"element": "fire",
@@ -2054,28 +1847,8 @@
 				"stars": 2
 			},
 			{
-				"element": "poison",
-				"stars": 0
-			},
-			{
-				"element": "stun",
-				"stars": 0
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -2086,10 +1859,6 @@
 				"stars": 1
 			},
 			{
-				"element": "thunderblight",
-				"stars": 0
-			},
-			{
 				"element": "iceblight",
 				"stars": 2
 			}
@@ -2098,16 +1867,15 @@
 	{
 		"id": 45,
 		"name": "Apex Zinogre",
+		"species": "fanged wyvern",
 		"elements": [
 			"thunder"
 		],
 		"ailments": ["Thunderblight"],
 		"resistances": [
 			{
-				"element": "thunder"
-			},
-			{
-				"element": "fire"
+				"element": "thunder",
+				"condition": "immune"
 			},
 			{
 				"element": "dragon"
@@ -2115,24 +1883,16 @@
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
-				"stars": 0
-			},
-			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
 				"element": "fire",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "water",
-				"stars": 0
+				"stars": 2
 			},
 			{
 				"element": "ice",
-				"stars": 1
+				"stars": 2
 			},
 			{
 				"element": "poison",
@@ -2143,20 +1903,8 @@
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -2179,6 +1927,7 @@
 	{
 		"id": 46,
 		"name": "Crimson Glow Valstrax",
+		"species": "elder dragon",
 		"elements": [
 			"dragon"
 		],
@@ -2187,14 +1936,11 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon"
+				"element": "dragon",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
-			{
-				"element": "dragon",
-				"stars": 0
-			},
 			{
 				"element": "thunder",
 				"stars": 3
@@ -2212,28 +1958,8 @@
 				"stars": 3
 			},
 			{
-				"element": "poison",
-				"stars": 0
-			},
-			{
-				"element": "stun",
-				"stars": 0
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -2256,6 +1982,7 @@
 	{
 		"id": 47,
 		"name": "Malzeno",
+		"species": "elder dragon",
 		"elements": [
 			"else"
 		],
@@ -2264,10 +1991,12 @@
 		],
 		"resistances": [
 			{
-				"element": "water"
+				"element": "water",
+				"condition": "immune"
 			},
 			{
-				"element": "thunder"
+				"element": "thunder",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
@@ -2276,44 +2005,20 @@
 				"stars": 3
 			},
 			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
 				"element": "fire",
-				"stars": 1
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
 				"stars": 2
 			},
 			{
-				"element": "poison",
-				"stars": 0
+				"element": "ice",
+				"stars": 1
 			},
 			{
 				"element": "stun",
 				"stars": 1
 			},
 			{
-				"element": "paralysis",
-				"stars": 0
-			},
-			{
-				"element": "sleep",
-				"stars": 0
-			},
-			{
 				"element": "blast",
 				"stars": 2
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -2336,6 +2041,7 @@
 	{
 		"id": 48,
 		"name": "Lunagaron",
+		"species": "fanged wyvern",
 		"elements": [
 			"ice"
 		],
@@ -2344,7 +2050,8 @@
 		],
 		"resistances": [
 			{
-				"element": "water"
+				"element": "water",
+				"condition": "immune"
 			},
 			{
 				"element": "ice"
@@ -2362,14 +2069,6 @@
 			{
 				"element": "fire",
 				"stars": 3
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
 			},
 			{
 				"element": "poison",
@@ -2416,6 +2115,7 @@
 	{
 		"id": 49,
 		"name": "Garangolm",
+		"species": "fanged beast",
 		"elements": [
 			"fire"
 		],
@@ -2424,32 +2124,26 @@
 		],
 		"resistances": [
 			{
-				"element": "water"
+				"element": "water",
+				"condition": "immune"
 			},
 			{
-				"element": "dragon"
+				"element": "dragon",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
-			{
-				"element": "dragon",
-				"stars": 0
-			},
 			{
 				"element": "thunder",
 				"stars": 2
 			},
 			{
 				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "ice",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "poison",
@@ -2472,10 +2166,6 @@
 				"stars": 2
 			},
 			{
-				"element": "exhaust",
-				"stars": 0
-			},
-			{
 				"element": "fireblight",
 				"stars": 2
 			},
@@ -2496,6 +2186,7 @@
 	{
 		"id": 50,
 		"name": "Shogun Ceanataur",
+		"species": "carapaceon",
 		"elements": [
 			"water"
 		],
@@ -2504,7 +2195,8 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon"
+				"element": "dragon",
+				"condition": "immune"
 			},
 			{
 				"element": "water"
@@ -2512,20 +2204,12 @@
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
-				"stars": 0
-			},
-			{
 				"element": "thunder",
 				"stars": 3
 			},
 			{
 				"element": "fire",
 				"stars": 3
-			},
-			{
-				"element": "water",
-				"stars": 0
 			},
 			{
 				"element": "ice",
@@ -2576,6 +2260,7 @@
 	{
 		"id": 51,
 		"name": "Astalos",
+		"species": "flying wyvern",
 		"elements": [
 			"thunder"
 		],
@@ -2587,33 +2272,26 @@
 				"element": "dragon"
 			},
 			{
-				"element": "thunder"
+				"element": "thunder",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
 			{
 				"element": "dragon",
-				"stars": 0
-			},
-			{
-				"element": "thunder",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "fire",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "water",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "ice",
 				"stars": 2
-			},
-			{
-				"element": "poison",
-				"stars": 0
 			},
 			{
 				"element": "stun",
@@ -2656,6 +2334,7 @@
 	{
 		"id": 52,
 		"name": "Blood Orange Bishaten",
+		"species": "fanged beast",
 		"elements": [
 			"fire"
 		],
@@ -2664,32 +2343,26 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon"
+				"element": "dragon",
+				"condition": "immune"
 			},
 			{
-				"element": "fire"
+				"element": "fire",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
-				"stars": 0
-			},
-			{
 				"element": "thunder",
-				"stars": 3
-			},
-			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
-				"element": "water",
 				"stars": 2
 			},
 			{
-				"element": "ice",
+				"element": "water",
 				"stars": 3
+			},
+			{
+				"element": "ice",
+				"stars": 1
 			},
 			{
 				"element": "poison",
@@ -2736,39 +2409,29 @@
 	{
 		"id": 53,
 		"name": "Seregios",
-		"elements": [
-			"else"
-		],
+		"species": "flying wyvern",
+		"elements": [],
 		"ailments": [
-			"else"
+			"Bleed"
 		],
 		"resistances": [
 			{
-				"element": "dragon"
-			},
-			{
-				"element": "fire"
-			},
-			{
-				"element": "water"
+				"element": "fire",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
 			{
 				"element": "dragon",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "thunder",
 				"stars": 3
 			},
 			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
 				"element": "water",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "ice",
@@ -2781,10 +2444,6 @@
 			{
 				"element": "stun",
 				"stars": 1
-			},
-			{
-				"element": "paralysis",
-				"stars": 0
 			},
 			{
 				"element": "sleep",
@@ -2819,6 +2478,7 @@
 	{
 		"id": 54,
 		"name": "Aurora Somnacanth",
+		"species": "leviathan",
 		"elements": [
 			"ice"
 		],
@@ -2827,35 +2487,26 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon"
+				"element": "dragon",
+				"condition": "immune"
 			},
 			{
-				"element": "water"
+				"element": "water",
+				"condition": "immune"
 			},
 			{
-				"element": "ice"
+				"element": "ice",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
-				"stars": 0
-			},
-			{
 				"element": "thunder",
-				"stars": 2
+				"stars": 1
 			},
 			{
 				"element": "fire",
-				"stars": 3
-			},
-			{
-				"element": "water",
-				"stars": 0
-			},
-			{
-				"element": "ice",
-				"stars": 0
+				"stars": 2
 			},
 			{
 				"element": "poison",
@@ -2868,10 +2519,6 @@
 			{
 				"element": "paralysis",
 				"stars": 1
-			},
-			{
-				"element": "sleep",
-				"stars": 0
 			},
 			{
 				"element": "blast",
@@ -2902,6 +2549,7 @@
 	{
 		"id": 55,
 		"name": "Magma Almudron",
+		"species": "leviathan",
 		"elements": [
 			"fire"
 		],
@@ -2923,11 +2571,7 @@
 			},
 			{
 				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
+				"stars": 1
 			},
 			{
 				"element": "water",
@@ -2935,7 +2579,7 @@
 			},
 			{
 				"element": "ice",
-				"stars": 2
+				"stars": 3
 			},
 			{
 				"element": "poison",
@@ -2952,10 +2596,6 @@
 			{
 				"element": "sleep",
 				"stars": 1
-			},
-			{
-				"element": "blast",
-				"stars": 0
 			},
 			{
 				"element": "exhaust",
@@ -2982,18 +2622,15 @@
 	{
 		"id": 56,
 		"name": "Gore Magala",
-		"elements": [
-			"else"
-		],
+		"species": "???",
+		"elements": [],
 		"ailments": [
-			"else"
+			"Frenzy Virus"
 		],
 		"resistances": [
 			{
-				"element": "water"
-			},
-			{
-				"element": "ice"
+				"element": "water",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
@@ -3008,10 +2645,6 @@
 			{
 				"element": "fire",
 				"stars": 3
-			},
-			{
-				"element": "water",
-				"stars": 0
 			},
 			{
 				"element": "ice",
@@ -3062,6 +2695,7 @@
 	{
 		"id": 57,
 		"name": "Espinas",
+		"species": "flying wyvern",
 		"elements": [
 			"fire"
 		],
@@ -3075,7 +2709,8 @@
 				"element": "thunder"
 			},
 			{
-				"element": "fire"
+				"element": "fire",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
@@ -3084,24 +2719,12 @@
 				"stars": 2
 			},
 			{
-				"element": "thunder",
-				"stars": 0
-			},
-			{
-				"element": "fire",
-				"stars": 0
-			},
-			{
 				"element": "water",
-				"stars": 2
+				"stars": 1
 			},
 			{
 				"element": "ice",
-				"stars": 3
-			},
-			{
-				"element": "poison",
-				"stars": 0
+				"stars": 2
 			},
 			{
 				"element": "stun",
@@ -3144,6 +2767,7 @@
 	{
 		"id": 58,
 		"name": "Daimyo Hermitaur",
+		"species": "carapaceon",
 		"elements": [
 			"water"
 		],
@@ -3152,17 +2776,11 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon"
-			},
-			{
-				"element": "water"
+				"element": "dragon",
+				"condition": "immune"
 			}
 		],
 		"weaknesses": [
-			{
-				"element": "dragon",
-				"stars": 0
-			},
 			{
 				"element": "thunder",
 				"stars": 3
@@ -3224,6 +2842,7 @@
 	{
 		"id": 59,
 		"name": "Pyre Rakna-kadaki",
+		"species": "temnoceran",
 		"elements": [
 			"fire"
 		],
@@ -3232,28 +2851,19 @@
 		],
 		"resistances": [
 			{
-				"element": "fire"
-			},
-			{
-				"element": "thunder"
-			},
-			{
-				"element": "dragon"
-			}
-		],
-		"weaknesses": [
-			{
-				"element": "dragon",
-				"stars": 0
+				"element": "fire",
+				"condition": "immune"
 			},
 			{
 				"element": "thunder",
-				"stars": 0
+				"condition": "immune"
 			},
 			{
-				"element": "fire",
-				"stars": 0
-			},
+				"element": "dragon",
+				"condition": "immune"
+			}
+		],
+		"weaknesses": [
 			{
 				"element": "water",
 				"stars": 3
@@ -3261,10 +2871,6 @@
 			{
 				"element": "ice",
 				"stars": 2
-			},
-			{
-				"element": "poison",
-				"stars": 0
 			},
 			{
 				"element": "stun",
@@ -3277,14 +2883,6 @@
 			{
 				"element": "sleep",
 				"stars": 1
-			},
-			{
-				"element": "blast",
-				"stars": 0
-			},
-			{
-				"element": "exhaust",
-				"stars": 0
 			},
 			{
 				"element": "fireblight",
@@ -3307,9 +2905,8 @@
 	{
 		"id": 60,
 		"name": "Lucent Nargacuga",
-		"elements": [
-			"else"
-		],
+		"species": "flying wyvern",
+		"elements": [],
 		"ailments": [
 			"Poison"
 		],
