@@ -1,0 +1,324 @@
+[
+	{
+		"id": 1,
+		"name": "Chatacabra",
+		"species": "amphibian",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 2,
+		"name": "fanged beast",
+		"species": "TBD",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 3,
+		"name": "Balahara",
+		"species": "leviathan",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 4,
+		"name": "Lala Barina",
+		"species": "temnoceran",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 5,
+		"name": "Rey Dau",
+		"species": "flying wyvern",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 6,
+		"name": "Arkveld",
+		"species": "elder dragon",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 7,
+		"name": "Uth Duna",
+		"species": "leviathan",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 8,
+		"name": "Rompopolo",
+		"species": "brute wyvern",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 9,
+		"name": "Kau Durango",
+		"species": "TBD",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 10,
+		"name": "Quematrice",
+		"species": "brute wyvern",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 11,
+		"name": "Congalala",
+		"species": "fanged beast",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 12,
+		"name": "Yian Kut-Ku",
+		"species": "bird wyvern",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 13,
+		"name": "Rathian",
+		"species": "flying wyvern",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 14,
+		"name": "Rathalos",
+		"species": "flying wyvern",
+        "threat level": 0,
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	}
+]
