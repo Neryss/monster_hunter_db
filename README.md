@@ -5,6 +5,16 @@ Both DB's are complete for my goal which is to run a [Discord bot](https://githu
 
 I know some informations might be missing for recent monsters sicne I didn't use the locations or missions rewards for the bot, hence why it is not present in the DB. Feel free to add them if you wish!
 
+# !!! UPDATE CONCERNING MH WILDS AND CURRENT BOT STATUS
+
+So we all know the new entry in the series is coming soon, with that the question of this repo being updated is brought out. The simple answer is yes it will be completed with the new monsters!
+I don't know when though, I will be playing the game a lot and juggling with work/studies so it may take time, I think the template will stay the same (if the devs didn't bring new resistances format...) so if people want to help, as usual go ahead!
+
+Another big point: the Discord bot isn't running at the time (and hasn't been for quite a while to be honest), reason being my server is dead (o7) and I don't have the money to get another one for now. I might get a replacement soon so I will update this readme according to it.
+
+
+I hope everyone will have fun with the new game, see you on the hunt!
+
 ## MHW
 This json was taken from the [MHW-db api](https://docs.mhw-db.com/), I've added missing content mostly from post Iceborne in the same format while not going through advanced stuff (Locations, rewards...).
 
