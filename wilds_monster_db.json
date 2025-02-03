@@ -4,6 +4,7 @@
 		"name": "Chatacabra",
 		"species": "amphibian",
         "threat level": 0,
+		"locations": "Windward Plains",
 		"elements": [
             "TBD"
         ],
@@ -24,9 +25,10 @@
 	},
     {
 		"id": 2,
-		"name": "fanged beast",
-		"species": "TBD",
+		"name": "Doshaguma",
+		"species": "fanged beast",
         "threat level": 0,
+		"locations": "Windward Plains",
 		"elements": [
             "TBD"
         ],
@@ -50,6 +52,7 @@
 		"name": "Balahara",
 		"species": "leviathan",
         "threat level": 0,
+		"locations": "Windward Plains",
 		"elements": [
             "TBD"
         ],
@@ -73,6 +76,7 @@
 		"name": "Lala Barina",
 		"species": "temnoceran",
         "threat level": 0,
+		"locations": "Scarlet Forest",
 		"elements": [
             "TBD"
         ],
@@ -96,6 +100,7 @@
 		"name": "Rey Dau",
 		"species": "flying wyvern",
         "threat level": 0,
+		"locations": "Windward Plains",
 		"elements": [
             "TBD"
         ],
@@ -119,6 +124,7 @@
 		"name": "Arkveld",
 		"species": "elder dragon",
         "threat level": 0,
+		"locations": "TBD",
 		"elements": [
             "TBD"
         ],
@@ -142,6 +148,7 @@
 		"name": "Uth Duna",
 		"species": "leviathan",
         "threat level": 0,
+		"locations": "Scarlet Forest",
 		"elements": [
             "TBD"
         ],
@@ -162,9 +169,10 @@
 	},
     {
 		"id": 8,
-		"name": "Rompopolo",
-		"species": "brute wyvern",
+		"name": "Ajarakan",
+		"species": "TBD",
         "threat level": 0,
+		"locations": "Oilwell Basin",
 		"elements": [
             "TBD"
         ],
@@ -183,11 +191,12 @@
 			}
 		]
 	},
-    {
+	{
 		"id": 9,
-		"name": "Kau Durango",
-		"species": "TBD",
+		"name": "Rompopolo",
+		"species": "brute wyvern",
         "threat level": 0,
+		"locations": "Oilwell Basin",
 		"elements": [
             "TBD"
         ],
@@ -208,9 +217,10 @@
 	},
     {
 		"id": 10,
-		"name": "Quematrice",
-		"species": "brute wyvern",
+		"name": "Nu Udra",
+		"species": "TBD",
         "threat level": 0,
+		"locations": "Oilwell Basin",
 		"elements": [
             "TBD"
         ],
@@ -231,9 +241,10 @@
 	},
     {
 		"id": 11,
-		"name": "Congalala",
-		"species": "fanged beast",
+		"name": "Quematrice",
+		"species": "brute wyvern",
         "threat level": 0,
+		"locations": "Windward Plains",
 		"elements": [
             "TBD"
         ],
@@ -254,9 +265,10 @@
 	},
     {
 		"id": 12,
-		"name": "Yian Kut-Ku",
-		"species": "bird wyvern",
+		"name": "Congalala",
+		"species": "fanged beast",
         "threat level": 0,
+		"locations": "TBD",
 		"elements": [
             "TBD"
         ],
@@ -277,9 +289,10 @@
 	},
     {
 		"id": 13,
-		"name": "Rathian",
-		"species": "flying wyvern",
+		"name": "Yian Kut-Ku",
+		"species": "bird wyvern",
         "threat level": 0,
+		"locations": "TBD",
 		"elements": [
             "TBD"
         ],
@@ -300,9 +313,82 @@
 	},
     {
 		"id": 14,
+		"name": "Rathian",
+		"species": "flying wyvern",
+        "threat level": 0,
+		"locations": "TBD",
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+    {
+		"id": 15,
 		"name": "Rathalos",
 		"species": "flying wyvern",
         "threat level": 0,
+		"locations": "TBD",
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+	{
+		"id": 16,
+		"name": "Gypceros",
+		"species": "bird wyvern",
+        "threat level": 0,
+		"locations": "TBD",
+		"elements": [
+            "TBD"
+        ],
+		"ailments": [
+            "TBD"
+		],
+		"resistances": [
+			{
+				"element": "TBD"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "TBD",
+				"stars": 0
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "Gravios",
+		"species": "flying wyvern",
+        "threat level": 0,
+		"locations": "Oilwell Basin",
 		"elements": [
             "TBD"
         ],
