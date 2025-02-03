@@ -3,6 +3,8 @@
 		"id": 1,
 		"name": "monster",
 		"species": "type",
+    "threat level": "0",
+    "locations": "Location Name"
 		"elements": [
 			"dragon"
 		],
