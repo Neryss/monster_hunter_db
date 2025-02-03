@@ -1,0 +1,81 @@
+
+	{
+		"id": 1,
+		"name": "monster",
+		"species": "type",
+    "threat level": "0",
+    "locations": "Location Name"
+		"elements": [
+			"dragon"
+		],
+		"ailments": [
+			"Dragonblight"
+		],
+		"resistances": [
+			{
+				"element": "dragon"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "dragon",
+				"stars": 0
+			},
+			{
+				"element": "thunder",
+				"stars": 3
+			},
+			{
+				"element": "fire",
+				"stars": 3
+			},
+			{
+				"element": "water",
+				"stars": 3
+			},
+			{
+				"element": "ice",
+				"stars": 3
+			},
+			{
+				"element": "poison",
+				"stars": 0
+			},
+			{
+				"element": "stun",
+				"stars": 0
+			},
+			{
+				"element": "paralysis",
+				"stars": 0
+			},
+			{
+				"element": "sleep",
+				"stars": 0
+			},
+			{
+				"element": "blast",
+				"stars": 2
+			},
+			{
+				"element": "exhaust",
+				"stars": 0
+			},
+			{
+				"element": "fireblight",
+				"stars": 1
+			},
+			{
+				"element": "waterblight",
+				"stars": 1
+			},
+			{
+				"element": "thunderblight",
+				"stars": 1
+			},
+			{
+				"element": "iceblight",
+				"stars": 1
+			}
+		]
+	}
