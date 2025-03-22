@@ -7,10 +7,9 @@ I know some informations might be missing for recent monsters sicne I didn't use
 
 # !!! UPDATE CONCERNING MH WILDS AND CURRENT BOT STATUS
 
-So we all know the new entry in the series is coming soon, with that the question of this repo being updated is brought out. The simple answer is yes it will be completed with the new monsters!
-I don't know when though, I will be playing the game a lot and juggling with work/studies so it may take time, I think the template will stay the same (if the devs didn't bring new resistances format...) so if people want to help, as usual go ahead!
+I'm starting to work on the MH: Wilds Database, it will take a bit of time to get right and to make sure that no typos were made.
 
-Another big point: the Discord bot isn't running at the time (and hasn't been for quite a while to be honest), reason being my server is dead (o7) and I don't have the money to get another one for now. I might get a replacement soon so I will update this readme according to it.
+Concerning the bot, I want to re do the whole code base since it's an ugly monster, this will also take some time but I'll have plenty of free time to work on both project.
 
 
 I hope everyone will have fun with the new game, see you on the hunt!
@@ -43,6 +42,12 @@ Anyway, here are the needed stuff:
 - Monster descriptions/lore
 - Monster locations
 - Monster drops/rewards
+
+### Wilds
+
+- Relecture will be needed, and you can also help me complete the monster list!
+- Maybe add a `description` entry to the template
+- Same for `rewards`
 
 ## Thanks
 

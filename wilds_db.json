@@ -1,21 +1,22 @@
-
+[
 	{
 		"id": 1,
-		"name": "monster",
-		"species": "type",
-		"threat level": "0",
-		"locations": "Location Name",
+		"name": "Ajarakan",
+		"species": "Fanged Beast",
+        "threat level": "0",
+        "locations": [
+            "Oilwell Basin",
+            "Ruins of Wyveria"
+        ],
 		"elements": [
-			"dragon"
+			"Fire"
 		],
-		"description": "",
-		"rewards": [],
 		"ailments": [
-			"Dragonblight"
+			"Fireblight"
 		],
 		"resistances": [
 			{
-				"element": "dragon"
+				"element": "fire"
 			}
 		],
 		"weaknesses": [
@@ -25,11 +26,11 @@
 			},
 			{
 				"element": "thunder",
-				"stars": 3
+				"stars": 0
 			},
 			{
 				"element": "fire",
-				"stars": 3
+				"stars": 0
 			},
 			{
 				"element": "water",
@@ -37,7 +38,7 @@
 			},
 			{
 				"element": "ice",
-				"stars": 3
+				"stars": 2
 			},
 			{
 				"element": "poison",
@@ -65,19 +66,20 @@
 			},
 			{
 				"element": "fireblight",
-				"stars": 1
+				"stars": 0
 			},
 			{
 				"element": "waterblight",
-				"stars": 1
+				"stars": 0
 			},
 			{
 				"element": "thunderblight",
-				"stars": 1
+				"stars": 0
 			},
 			{
 				"element": "iceblight",
-				"stars": 1
+				"stars": 0
 			}
 		]
 	}
+]
