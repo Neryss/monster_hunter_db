@@ -170,24 +170,35 @@
     {
 		"id": 8,
 		"name": "Ajarakan",
-		"species": "TBD",
+		"species": "Fanged Beast",
         "threat level": 0,
-		"locations": "Oilwell Basin",
+		"locations": [
+			"Oilwell Basin",
+			"Ruins of Wyveria"
+		],
 		"elements": [
-            "TBD"
+            "Fire"
         ],
 		"ailments": [
-            "TBD"
+            "Fireblight"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Fire"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "water",
+				"stars": 3
+			},
+			{
+				"element": "ice",
+				"stars": 2
+			},
+			{
+				"element": "blast",
+				"stars": 2
 			}
 		]
 	},
