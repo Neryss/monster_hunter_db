@@ -5,21 +5,45 @@
 		"species": "amphibian",
         "threat level": 0,
 		"locations": "Windward Plains",
-		"elements": [
-            "TBD"
-        ],
-		"ailments": [
-            "TBD"
-		],
+		"elements": [],
+		"ailments": [],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Dragon"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Thunder",
+				"stars": 3
+			},
+			{
+				"element": "Ice",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 3
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 3
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 3
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	},
