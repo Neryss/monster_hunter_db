@@ -50,96 +50,196 @@
     {
 		"id": 2,
 		"name": "Doshaguma",
-		"species": "fanged beast",
+		"species": "Fanged Beast",
         "threat level": 0,
-		"locations": "Windward Plains",
+		"locations": [
+			"Windward Plains",
+			"Scarlet Forest",
+			"Ruins of Wyveria"
+		],
 		"elements": [
-            "TBD"
+            "Blast"
         ],
 		"ailments": [
-            "TBD"
+            "Blastblight"
 		],
-		"resistances": [
-			{
-				"element": "TBD"
-			}
-		],
+		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Fire",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	},
     {
 		"id": 3,
 		"name": "Balahara",
-		"species": "leviathan",
+		"species": "Leviathan",
         "threat level": 0,
 		"locations": "Windward Plains",
 		"elements": [
-            "TBD"
+            "Water"
         ],
 		"ailments": [
-            "TBD"
+            "Waterblight"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Water"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Thunder",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 3
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 3
 			}
 		]
 	},
     {
 		"id": 4,
 		"name": "Lala Barina",
-		"species": "temnoceran",
+		"species": "Temnoceran",
         "threat level": 0,
-		"locations": "Scarlet Forest",
-		"elements": [
-            "TBD"
-        ],
+		"locations": [
+			"Scarlet Forest",
+			"Ruins of Wyveria"
+		],
+		"elements": [],
 		"ailments": [
-            "TBD"
+            "Paralysis"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Water"
+			},
+			{
+				"element": "Dragon"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Fire",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 1
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 3
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	},
     {
 		"id": 5,
 		"name": "Rey Dau",
-		"species": "flying wyvern",
+		"species": "Flying Wyvern",
         "threat level": 0,
 		"locations": "Windward Plains",
 		"elements": [
-            "TBD"
+            "Thunder"
         ],
 		"ailments": [
-            "TBD"
+            "Thunderblight"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Thunder"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Ice",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 1
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 1
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	},
@@ -439,6 +539,111 @@
 			{
 				"element": "TBD",
 				"stars": 0
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "Zoh Shia",
+		"species": "Construct",
+        "threat level": 0,
+		"locations": "Ruins of Wyveria",
+		"elements": [
+            "Fire",
+			"Thunder"
+        ],
+		"ailments": [
+            "Fireblight",
+			"Thunderblight"
+		],
+		"resistances": [],
+		"weaknesses": [
+			{
+				"element": "Dragon",
+				"stars": 3
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 1
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "Mizutsune",
+		"species": "Leviathan",
+        "threat level": 0,
+		"locations": [
+			"Scarlet Forest",
+			"Ruins of Wyveria"
+		],
+		"elements": [
+            "Water"
+        ],
+		"ailments": [
+            "Waterblight",
+			"Bubbleblight"
+		],
+		"resistances": [
+			{
+				"element": "Water"
+			},
+			{
+				"element": "Fire"
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "Thunder",
+				"stars": 3
+			},
+			{
+				"element": "Dragon",
+				"stars": 3
+			},
+			{
+				"element": "Ice",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	}
