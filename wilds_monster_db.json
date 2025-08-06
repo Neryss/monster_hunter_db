@@ -246,48 +246,102 @@
     {
 		"id": 6,
 		"name": "Arkveld",
-		"species": "elder dragon",
+		"species": "Flying Wyvern",
         "threat level": 0,
-		"locations": "TBD",
+		"locations": [
+			"Windward Plains",
+			"Scarlet Forest",
+			"Oilwell Basin",
+			"Iceshard Cliffs",
+			"Ruins of Wyveria"
+		],
 		"elements": [
-            "TBD"
+            "Dragon"
         ],
 		"ailments": [
-            "TBD"
+            "Dragonblight"
 		],
-		"resistances": [
-			{
-				"element": "TBD"
-			}
-		],
+		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	},
     {
 		"id": 7,
 		"name": "Uth Duna",
-		"species": "leviathan",
+		"species": "Large Monster",
         "threat level": 0,
 		"locations": "Scarlet Forest",
 		"elements": [
-            "TBD"
+            "Water"
         ],
 		"ailments": [
-            "TBD"
+            "Waterblight"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Water"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Thunder",
+				"stars": 2
+			},
+			{
+				"element": "Thunder",
+				"stars": 2
+			},
+			{
+				"element": "Poison",
+				"stars": 2
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 1
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
 			}
 		]
 	},
