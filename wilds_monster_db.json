@@ -552,23 +552,50 @@
 		"id": 16,
 		"name": "Gypceros",
 		"species": "bird wyvern",
-        "threat level": 0,
-		"locations": "TBD",
-		"elements": [
-            "TBD"
-        ],
+    "threat level": 0,
+		"locations": [
+      "Windward plains",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+		"elements": [],
 		"ailments": [
-            "TBD"
+            "Poison"
 		],
-		"resistances": [
-			{
-				"element": "TBD"
-			}
-		],
+		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Poison",
+				"stars": 1
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Paralysis",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
+			},
+			{
+				"element": "Fire",
+				"stars": 3
+			},
+			{
+				"element": "Ice",
+				"stars": 2
 			}
 		]
 	},
