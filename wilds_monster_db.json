@@ -576,23 +576,51 @@
 		"id": 17,
 		"name": "Gravios",
 		"species": "flying wyvern",
-        "threat level": 0,
-		"locations": "Oilwell Basin",
+    "threat level": 0,
+		"locations": ["Oilwell Basin", "Ruins of Wyveria"],
 		"elements": [
-            "TBD"
+            "Fire"
         ],
 		"ailments": [
-            "TBD"
+            "Fireblight"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Fire"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
+				"element": "Poison",
+				"stars": 2
+			},
+      {
+				"element": "Sleep",
+				"stars": 2
+			},
+      {
+				"element": "Paralysis",
+				"stars": 2
+			},
+      {
+				"element": "Blastblight",
+				"stars": 2
+			},
+      {
+				"element": "Stun",
+				"stars": 2
+			},
+      {
+				"element": "Exhaust",
+				"stars": 2
+			},
+      {
+				"element": "Water",
+				"stars": 3
+			},
+      {
+				"element": "Dragon",
+				"stars": 2
 			}
 		]
 	},
