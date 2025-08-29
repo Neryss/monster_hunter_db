@@ -528,24 +528,49 @@
 		"id": 15,
 		"name": "Rathalos",
 		"species": "flying wyvern",
-        "threat level": 0,
-		"locations": "TBD",
+    "threat level": 0,
+		"locations": [
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
 		"elements": [
-            "TBD"
+            "Fire"
         ],
 		"ailments": [
-            "TBD"
+            "Fireblight",
+            "Poison"
 		],
 		"resistances": [
 			{
-				"element": "TBD"
+				"element": "Fire"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "TBD",
-				"stars": 0
-			}
+				"element": "Poison",
+				"stars": 1
+			},
+			{
+				"element": "Sleep",
+				"stars": 2
+			},
+			{
+				"element": "Blastblight",
+				"stars": 2
+			},
+			{
+				"element": "Stun",
+				"stars": 2
+			},
+			{
+				"element": "Exhaust",
+				"stars": 2
+			},
+			{
+				"element": "Dragon",
+				"stars": 3
+			},
 		]
 	},
 	{
