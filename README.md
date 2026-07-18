@@ -7,9 +7,11 @@ I know some informations might be missing for recent monsters sicne I didn't use
 
 # !!! UPDATE CONCERNING MH WILDS AND CURRENT BOT STATUS
 
-I'm starting to work on the MH: Wilds Database, it will take a bit of time to get right and to make sure that no typos were made.
+It's been a long time since I last updated wilds' db and I don't know if I'll do it before Ascendant comes out so feel free to contribute if you want !
 
-Concerning the bot, I want to re do the whole code base since it's an ugly monster, this will also take some time but I'll have plenty of free time to work on both project.
+Concerning the discord bot status, sadly it's out of order, I need to provide ID verification to Discord which I don't want to do for several reason hence why my bot has been revoked of servers. You can still host you own bot using [this](https://github.com/Neryss/mh_bot) repo !
+
+Sorry for the inconvenience !
 
 
 I hope everyone will have fun with the new game, see you on the hunt!
